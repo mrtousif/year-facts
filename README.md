@@ -1,2 +1,3 @@
 # Shows a fact of a given year
-https://codertousif.github.io/year-facts/
+
+![Alt text](./year-facts-shot.jpg?raw=true)
